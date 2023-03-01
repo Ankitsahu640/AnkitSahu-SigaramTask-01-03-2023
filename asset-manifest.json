@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AnkitSahu-SigaramTask-01-03-2023/static/css/main.79bb84c6.css",
+    "main.js": "/AnkitSahu-SigaramTask-01-03-2023/static/js/main.6f53cc37.js",
+    "static/js/787.2dc53dd8.chunk.js": "/AnkitSahu-SigaramTask-01-03-2023/static/js/787.2dc53dd8.chunk.js",
+    "index.html": "/AnkitSahu-SigaramTask-01-03-2023/index.html",
+    "main.79bb84c6.css.map": "/AnkitSahu-SigaramTask-01-03-2023/static/css/main.79bb84c6.css.map",
+    "main.6f53cc37.js.map": "/AnkitSahu-SigaramTask-01-03-2023/static/js/main.6f53cc37.js.map",
+    "787.2dc53dd8.chunk.js.map": "/AnkitSahu-SigaramTask-01-03-2023/static/js/787.2dc53dd8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79bb84c6.css",
+    "static/js/main.6f53cc37.js"
+  ]
+}
