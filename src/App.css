@@ -1,0 +1,15 @@
+.matrixBox{
+  margin: 10rem auto;
+  width: 75%;
+  height: 30%;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  background: #1900ff;
+}
+.matrixCol{
+  border: 2px solid black ;
+  height:3.5rem;
+}
+.matrixCol:hover{
+  cursor: pointer;
+}
